@@ -28,7 +28,6 @@ remotecharts="https://github.com/yatace/UKSingleCharts/blob/master/all.json?raw=
 
 # THINGS TO DO
 
-# uploade to guthub
 # write a shitty blog post about it
 # filter data so tracks are just once rather than every time they chart
 
@@ -44,6 +43,7 @@ remotecharts="https://github.com/yatace/UKSingleCharts/blob/master/all.json?raw=
 # make it download file... YES
 # Make it loop? YES
 # MAKE limit less buggy DONE
+# uploade to github DONE
 
 
 import json, random, webbrowser, re
